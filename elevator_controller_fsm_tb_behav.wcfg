@@ -11,12 +11,12 @@
    </db_ref_list>
    <zoom_setting>
       <ZoomStartTime time="0.000 ns"></ZoomStartTime>
-      <ZoomEndTime time="118.301 ns"></ZoomEndTime>
+      <ZoomEndTime time="118.901 ns"></ZoomEndTime>
       <Cursor1Time time="60.000 ns"></Cursor1Time>
    </zoom_setting>
    <column_width_setting>
       <NameColumnWidth column_width="156"></NameColumnWidth>
-      <ValueColumnWidth column_width="309"></ValueColumnWidth>
+      <ValueColumnWidth column_width="303"></ValueColumnWidth>
    </column_width_setting>
    <WVObjectSize size="13" />
    <wvobject fp_name="/elevator_controller_fsm_tb/w_clk" type="logic">
